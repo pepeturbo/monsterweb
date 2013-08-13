@@ -1,0 +1,529 @@
+a
+{
+	text-decoration: none;color:white;
+}
+
+body
+{
+	background-color: #CCC5B9;
+	color: white;
+	font-family: arial;
+	font-size: 16px;
+	text-align: center;
+}
+
+header
+{
+	background-color: #FF4C00;
+	border-bottom: 0.10em solid black;
+	box-shadow: 0 7px 22px -3px #000;
+	height: 80px;
+	width: 100%;
+}
+figure
+{
+	height: 100px;
+	margin: 0 0 0 40em;
+}
+
+nav
+{
+	
+
+	margin: 0 0 0 42em;
+	width: 50%;
+	
+	
+}
+
+nav ul
+{
+	list-style: none;
+}
+
+
+nav ul li
+{
+	
+	color: black;
+	display: inline-block;
+	font-size: 2em;
+	font-weight: bold;
+	padding: 0 0.5em;
+}
+
+#analisis
+{
+
+	margin: 0 1em 0 0.5em;
+	text-align: center;
+	width: 30%;
+
+}
+#articlediseño
+{
+	padding: 1em; 
+}
+#articlelow
+{
+	padding: 1em; 
+}
+#articleseo
+{
+	padding: 1em; 
+}
+#articlesocial
+{
+	padding: 1em; 
+}
+
+#amazingslider-1
+{
+	left: 1.5px;
+	position: absolute;
+	top: 8.5em;
+	z-index: 2;
+}
+
+#blanco
+{
+	background: white;
+	color: black;
+	height: 200px;
+	position: absolute;
+	width: 60%;
+	z-index: 1;
+
+}
+#cafeterias
+{
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	left: 8em;
+}
+#club
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+}
+
+#contacta
+{
+	color: black;
+	position: absolute;
+	top: 158em;
+	text-align: justify;
+	width:  20%;
+	left: 5em;
+}
+
+
+
+#diseño
+{
+	background-color: #FF4C00;
+	border-radius: 1em;
+	border: solid black 0.15em;
+	box-shadow:0px 4px 7px #0D0000;
+	color: black;
+	height: 20em;
+	margin: 0 3em 3em 3em;	
+	text-align: justify;
+	width: 40%;
+}
+#diseñoimg
+{
+	border-radius: 1em 0 0 0;
+	margin-right: 20.5em;
+	width: 40%;
+}
+#diseñop
+{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	left: 13em;
+	position: absolute;
+	top: 16em;
+}
+#diseño, #low
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.error
+{
+    background-color: red;
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 6px;
+    position: absolute;
+}
+
+#footer
+{
+
+	background-color: black;
+	height: 8em;
+	margin: 16em 0 0 0;
+	width: 100%;
+
+}
+#footerser
+{
+
+	background-color: black;
+	height: 8em;
+	margin: 25em 0 0 0;
+	width: 100%;
+
+}
+#footerpor
+{
+
+	background-color: black;
+	height: 8em;
+	margin: 32em 0 0 0;
+	width: 100%;
+
+}
+#fotografo
+
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	top: 24.8em;
+	left: 53em;
+
+}
+#get
+{
+	font-size: 5em;
+	font-weight: bold;
+	
+}
+#gestorias
+
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	left: 8em;
+	top: 42.6em;
+}
+#mantenimiento
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+}
+
+#monster
+
+{
+	color: black;
+	font-size: 2em;
+	margin: 0 0 0 0.5em;
+	width: 20%;
+}
+
+#monstergrande
+{
+	left: 47em;
+	position: absolute;
+	top: 110em;
+}
+#monstruito
+{
+	position: absolute;
+	top: 159.7em;
+	left: 35em;
+}
+#monstruitoser
+{
+	position: absolute;
+	top: 92.5em;
+	left: 35em;
+}
+#monstruitopor
+{
+	position: absolute;
+	top: 102em;
+	left: 35em;
+}
+
+#monstruo
+{
+	left: 250px;
+	position: absolute;
+	top: 400px;
+	z-index: 1;
+
+}
+
+#mw
+{
+	color: #FF4C00;
+	font-size: 5em;
+	height: 20%;
+	margin: 0 0 0 0.5em;
+	width: 25%;
+		
+}
+#low
+{
+	background-color: #FF4C00;
+	border-radius: 1em;
+	border: solid black 0.15em;
+	box-shadow:0px 4px 7px #0D0000;
+	color: black;
+	text-align: justify;
+	width: 40%;
+	height: 20em;
+	margin-left: 3em;	
+}
+#lowimg
+{
+	border-radius: 1em 0 0 0;
+	height: 50%;
+	width: 40%;
+	margin-right: 20.5em;
+}
+#lowp
+{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	position: absolute;
+	top: 16em;
+	left: 32em;
+}
+
+
+#naranja
+{
+	background: #FF4C00;
+	border-radius: 1em;
+	border: 0.2em solid black;
+	left: 200px;
+	position: absolute;
+	top: 50px;
+	width: 50%;
+	z-index: 2;
+
+}
+#nuestros
+{
+	background-color: #FF4C00;
+	border-radius: 0 1em 1em 0;
+	border: 0.15em solid black;
+	box-shadow:0px 4px 7px #0D0000;
+	color: black;
+	height: 70px;
+	margin: 4em 0 2em 0;
+	padding: 0.5em 0 0 0;
+	width: 50%;
+}
+#panaderias
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	left: 53em;
+	top: 42.6em;
+}
+#pasteleria
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+}
+#peluqueria
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	left: 8em;
+	top: 60.6em;
+	
+}
+
+#promo
+{
+
+	background-color: #FF4C00;
+	box-shadow: 0px 4px 7px #0D0000;
+	border-radius: 1em;
+	border: 0.10em solid black;
+	left: 40em;
+	position: absolute;
+	top: 8em;
+	width: 400px;
+	
+		
+}
+#pub
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	left: 53em;
+	top: 60.6em;
+
+}
+
+#quienes
+{
+	background-color: #34B828;
+	border-radius: 0 1em 1em 0;
+	border: 0.15em solid black;
+	color: black;
+	height: 70px;
+	margin: 20em 0 2em 0;
+	padding: 0.5em 0 0 0;
+	width: 50%;
+}
+#restaurante
+{
+	height: 100%;
+	margin: 1em 1em;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	left: 8em;
+}
+
+#section3index
+{
+	background: #FF4C00; 
+	
+}
+
+
+#servicios
+{
+	background-color: #FF4C00;
+	border-radius: 0 1em 1em 0;
+	border: 0.15em solid black;
+	box-shadow: 0px 4px 7px #0D0000;
+	color: black;
+	height: 70px;
+	margin: 30em 0 2em 0;
+	padding: 0.5em 0 0 0;
+	width: 50%;
+}
+#seo
+{
+	background-color: #FF4C00;
+	border-radius: 1em;
+	border: solid black 0.15em;
+	box-shadow:0px 4px 7px #0D0000;
+	color: black;
+	text-align: justify;
+	width: 40%;
+	height: 20em;
+	margin: 0 3em 3em 3em;	
+}
+#seoimg
+{
+	border-radius: 1em 0 0 0;
+	width: 40%;
+	margin-right: 20.5em;
+}
+#seop
+{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	position: absolute;
+	top: 28em;
+	left: 13em;
+}
+#seo, #social
+{
+	display: inline-block;
+	vertical-align: top;
+}
+#social
+{
+	background-color: #FF4C00;
+	border-radius: 1em;
+	border: solid black 0.15em;
+	box-shadow:0px 4px 7px #0D0000;
+	color: black;
+	text-align: justify;
+	width: 40%;
+	height: 20em;
+	margin-left: 3em;	
+}
+#socialimg
+{
+	border-radius: 1em 0 0 0;
+	width: 40%;
+	margin-right: 20.5em;
+}
+#socialp
+{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	position: absolute;
+	top: 28em;
+	left: 32em;
+}
+
+#socialmedia
+{
+	margin: 0 0 0 0.5em;
+	text-align: center;
+	width: 30%;
+}
+
+#socialmedia, #webdesing, #analisis
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#somos
+{
+	left: 15em;
+	position: absolute;
+	text-align: justify;
+	top: 145em;
+	width: 70%;
+
+}
+
+#webdesing
+{
+	margin: 0 1em 0 0.5em;
+	text-align: center;
+	width: 30%;
+}
+
+
+
+
+
